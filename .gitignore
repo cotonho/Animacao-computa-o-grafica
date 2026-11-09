@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Capturas de tela antigas/de teste (as imagens finais do README são mantidas)
+# screenshots/t*.png
+# screenshots/pad_crop.png
+# screenshots/rocket_crop*.png

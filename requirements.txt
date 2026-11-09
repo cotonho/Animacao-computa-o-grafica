@@ -1,0 +1,11 @@
+# Dependências do projeto Base Aurora
+# Testado com Python 3.14.7 no Windows.
+
+pygame-ce>=2.5.8
+PyOpenGL>=3.1.7
+numpy>=2.0
+Pillow>=10.0
+
+# Opcional: acelera algumas chamadas do PyOpenGL. Se a instalação falhar no
+# seu sistema, remova ou comente a linha abaixo — o projeto funciona sem ela.
+# PyOpenGL_accelerate>=3.1.7
