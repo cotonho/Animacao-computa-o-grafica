@@ -6,11 +6,7 @@ Trabalho prático de Computação Gráfica — 2026/02
 
 **Integrantes:**
 - Marco Antônio — 231-001036
-- Pedro Souza — [matrícula]
-
-> Substitua os placeholders acima pelos nomes e matrículas reais do grupo.
-
----
+- Pedro Souza — 231-002821
 
 ## 1. Visão geral
 
